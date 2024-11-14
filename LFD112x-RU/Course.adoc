@@ -30,7 +30,7 @@ toc::[]
 :rquot: &#187;
 
 :sectnums:
-include::Chapters/Chapter1.adoc[Глава 1. Введение в RTOS и встраиваемые системы]
+include::Chapters/Chapter1.adoc[Глава 1. Введение в ОСРВ и встраиваемые системы]
 
 :sectnumlevels: 2
 include::Chapters/Chapter2.adoc[Глава 2. FreeRTOS]
